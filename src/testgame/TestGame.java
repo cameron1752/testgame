@@ -82,6 +82,8 @@ public class TestGame extends JPanel {
         frame.setVisible(true);
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 
+        System.out.println("OK BOOMER");
+
 //        initBaddys(game);
 
         while (true){
